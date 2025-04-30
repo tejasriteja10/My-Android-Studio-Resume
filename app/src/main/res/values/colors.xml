@@ -1,0 +1,10 @@
+<resources>
+    <color name="light_background">#F5F5F5</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="primary_color">#2196F3</color>
+    <color name="card_stroke">#E0E0E0</color>
+    <color name="chip_background">#E3F2FD</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="new_chip_color">#EDE7F6</color>
+</resources>
